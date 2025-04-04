@@ -1,4 +1,4 @@
-# 📝 NotesApp
+# 📝 Note App
 
 NotesApp, kullanıcıların not ekleyip listeleyebildiği, notları renk seçeneklerine göre gruplayabildiği ve arayabildiği bir React uygulamasıdır.
 
