@@ -11,4 +11,4 @@ NotesApp, kullanıcıların not ekleyip listeleyebildiği, notları renk seçene
 
 ## Proje Görseli 
 
-[Görsel](src\screenshots\ss.png)
+![Görsel](src\screenshots\ss.png)
